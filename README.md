@@ -5,7 +5,7 @@
 ## Installation
 1. Clone this repository or download zip
 ```bash
-https://github.com/Om-Prasad-das-26/login-page.git
+gh repo clone Om-Prasad-das-26/loginpage
 ```
 2. Open `index.html` to see the login pages
 
